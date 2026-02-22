@@ -1,44 +1,128 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Yogaarasu%20K&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<!-- Premium Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=220&section=header&text=Yogaarasu%20K&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Yogaarasu K</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Python | Problem Solver</h3>
+<h1 align="center">Full Stack Engineer | MERN | System Design | DSA</h1>
 
 <p align="center">
-📍 Coimbatore, Tamil Nadu  
-📧 yogaarasu465@gmail.com  
-🌐 <a href="https://yogaarasu-k.vercel.app/">Portfolio</a>  
-💼 <a href="https://linkedin.com/in/yogaarasu-k-aa04a1326/">LinkedIn</a>  
-💻 <a href="https://github.com/yogaarasu">GitHub</a>
+  <a href="https://yogaarasu-k.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://github.com/yogaarasu">💻 GitHub</a> •
+  <a href="https://linkedin.com/in/yogaarasu-k-aa04a1326/">💼 LinkedIn</a> •
+  📧 yogaarasu465@gmail.com
 </p>
 
 ---
 
-## 🧑‍💻 Professional Summary
+## 🚀 About Me
 
-Results-driven Full Stack Developer with a strong foundation in SDLC and modern web technologies.  
+I’m a results-driven **Full Stack Developer** with strong foundations in:
 
-Experienced in building scalable web applications using **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and Python.  
-
-Skilled in:
-- Designing RESTful APIs  
-- Implementing JWT Authentication  
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- RESTful API Architecture  
+- Scalable Backend Systems  
+- Secure Authentication (JWT)  
 - Database Optimization  
-- Writing clean, maintainable, and scalable code  
 
-Passionate about solving complex algorithmic problems and building impactful digital solutions.
+I specialize in building scalable web applications using the **MERN Stack** and Python while focusing on clean architecture, performance optimization, and maintainability.
+
+🎯 Currently focused on:
+- Advanced System Design
+- Competitive Programming
+- Backend Performance Optimization
+- Production-level React & Node.js Applications
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 ### 💻 Languages
-JavaScript (ES6+), TypeScript, Python, Java, C++, HTML5, CSS3
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css" />
+</p>
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
 ### 🎨 Frontend
-React.js, Next.js, Bootstrap, Tailwind CSS, Responsive Web Design
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
 
-### ⚙️ Backend
-Node.js, Express.js, RESTful APIs, JWT Authentication
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🏙️ CityLink – Civic Issue Reporting Platform
+
+**Tech Stack:** React.js | Node.js | Express.js | MongoDB  
+
+✔ Designed and developed a full-stack civic issue reporting system  
+✔ Implemented secure JWT-based authentication  
+✔ Built scalable REST APIs for complaint management  
+✔ Developed real-time admin dashboard for workflow tracking  
+✔ Ensured optimized database queries using Mongoose  
+
+🔗 (Add GitHub repo link here if available)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogaarasu&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogaarasu&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogaarasu&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🎓 Education
+
+**B.Sc Computer Science (2023 – 2026)**  
+Government Arts College, Coimbatore  
+CGPA: 7.5 / 10  
+
+---
+
+## 📜 Certification
+
+Object Oriented Programming using Python  
+Infosys Springboard – September 2024  
+
+---
+
+## 🤝 Open To
+
+- Software Engineering Internships  
+- Backend / Full Stack Developer Roles  
+- Open Source Collaboration  
+- High-Impact Product Teams  
+
+---
+
+<p align="center">
+  <b>Engineering scalable solutions with strong fundamentals and production-ready architecture.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:928DAB,100:1f1c2c&height=120&section=footer"/>
+</p>Node.js, Express.js, RESTful APIs, JWT Authentication
 
 ### 🗄️ Databases
 MongoDB (NoSQL), MySQL (SQL), Mongoose ODM
