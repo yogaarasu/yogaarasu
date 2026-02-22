@@ -1,91 +1,80 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=200&section=header&text=Yogaarasu%20K&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff" width="100%" alt="Animated Header" />
-</div>
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+MERN+Specialist;Building+Scalable+Solutions;Passionate+Problem+Solver" alt="Typing SVG" />
-  </a>
-</div>
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  [span_0](start_span)Hi, I'm <strong>Yogaarasu K</strong>[span_0](end_span)
+</h1>
 
-<br/>
+<h3>Full Stack Developer | [span_1](start_span)[span_2](start_span)MERN • Python</h3>[span_1](end_span)[span_2](end_span)
 
-<div align="center">
-  <a href="https://yogaarasu.netlify.app">
-    <img src="https://img.shields.io/badge/View_Portfolio-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117&color=61DAFB" alt="Portfolio" />
-  </a>
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
+  <p>
+    [span_3](start_span)I'm a results-driven Full Stack Developer with a strong foundation in the SDLC and modern web technologies.[span_3](end_span) [span_4](start_span)Proficient in building scalable web applications using the MERN Stack (MongoDB, Express.js, React.js, Node.js) and Python.[span_4](end_span)
+  </p>
+
+  <p>
+    [span_5](start_span)<img src="https://img.shields.io/badge/🌍_Coimbatore,_Tamil_Nadu-1e1e2e?style=for-the-badge" />[span_5](end_span)
+    [span_6](start_span)<a href="mailto:yogaarasu465@gmail.com"><img src="https://img.shields.io/badge/📧_yogaarasu465@gmail.com-1e1e2e?style=for-the-badge" /></a>[span_6](end_span)
+    <a href="https://yogaarasu.netlify.app"><img src="https://img.shields.io/badge/🌐_Portfolio-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
+  </p>
+
+<h3>🌐 Socials</h3>
+  
+<p align="left">
+  <a href="https://github.com/yogaarasu">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  [span_7](start_span)</a>[span_7](end_span)
+
   <a href="https://linkedin.com/in/yogaarasu-k">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:yogaarasu465@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="YOUR_RESUME_LINK_HERE">
-    <img src="https://img.shields.io/badge/View_Report_/_Resume-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="View Report" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  [span_8](start_span)</a>[span_8](end_span)
+</p>
+
+  [span_9](start_span)<img src="https://komarev.com/ghpvc/?username=yogaarasu&style=flat-square&color=blue" alt="Profile Visit"/>[span_9](end_span)
 </div>
 
-<br/>
+<br clear="all" />
+
+## [span_10](start_span)🛠️ Skills[span_10](end_span)
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
+
+ <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+   <h3>📚 Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" />
+</td>
+
+</tr>
+<tr>
+<td width="50%" align="center">
+  <h3>🗄️ Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+    <h3>🧰 Tools & Platforms</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</td>
+</tr>
+</table>
+</p>
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
-</div>
-
-## 👨‍💻 About Me
-
-* 🎓 Pursuing a **B.Sc. in Computer Science** at Government Arts College, Coimbatore.
-* 💻 Specializing in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and **Python**.
-* 🚀 Currently developing **CityLink**, a responsive civic issue reporting platform with a secure admin dashboard.
-* 🌱 Focusing on writing clean, maintainable code, System Design, and RESTful API optimization.
-
-<br/>
-
-## ⚛️ Tech Stack & Arsenal
-
-<div align="center">
-  <p><strong>Languages</strong></p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,html,css" alt="Languages" />
-  
-  <br/><br/>
-  
-  <p><strong>Frameworks & Libraries</strong></p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" alt="Frameworks" />
-  
-  <br/><br/>
-  
-  <p><strong>Databases & Tools</strong></p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,vercel" alt="Tools" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
-</div>
-
-## 📊 Analytics (Lucid React Theme)
-
-<div align="center">
-  <a href="https://github.com/yogaarasu">
-    <img src="https://github-readme-stats.vercel.app/api?username=yogaarasu&show_icons=true&theme=react&hide_border=true&border_radius=10" alt="GitHub Stats" style="max-width: 100%;" />
-  </a>
-  <a href="https://github.com/yogaarasu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogaarasu&layout=compact&theme=react&hide_border=true&border_radius=10" alt="Top Languages" style="max-width: 100%;" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/yogaarasu">
-    <img src="https://streak-stats.demolab.com?user=yogaarasu&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" style="max-width: 100%;" />
-  </a>
-</div>
-
-<br/>
-
-## 🐍 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogaarasu/yogaarasu/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yogaarasu/yogaarasu/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yogaarasu/yogaarasu/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
-  </picture>
+  <br/>
+  [span_11](start_span)<img src="https://streak-stats.demolab.com?user=yogaarasu&theme=dark&hide_border=true" alt="Streak" />[span_11](end_span)
 </div>
