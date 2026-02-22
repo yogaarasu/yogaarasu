@@ -1,23 +1,124 @@
-<!-- Premium Animated Header -->
+<!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=220&section=header&text=Yogaarasu%20K&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Yogaarasu+K;Full+Stack+Engineer;MERN+Stack+Developer;System+Design+Learner;DSA+Enthusiast;Building+Scalable+Web+Applications" />
 </p>
 
-<h1 align="center">Full Stack Engineer | MERN | System Design | DSA</h1>
+---
+
+<h2 align="center">
+  🚀 Engineering Scalable Systems with Clean Architecture
+</h2>
 
 <p align="center">
-  <a href="https://yogaarasu-k.vercel.app/">🌐 Portfolio</a> •
-  <a href="https://github.com/yogaarasu">💻 GitHub</a> •
-  <a href="https://linkedin.com/in/yogaarasu-k-aa04a1326/">💼 LinkedIn</a> •
+  📍 Coimbatore, India  
+  <br/>
+  🌐 <a href="https://yogaarasu-k.vercel.app/">Portfolio</a> • 
+  💼 <a href="https://linkedin.com/in/yogaarasu-k-aa04a1326/">LinkedIn</a> • 
+  💻 <a href="https://github.com/yogaarasu">GitHub</a> • 
   📧 yogaarasu465@gmail.com
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I’m a results-driven **Full Stack Developer** with strong foundations in:
+I am a **Full Stack Developer** focused on building performant, scalable, and secure applications.
 
+My engineering interests include:
+
+- ⚙️ Backend Architecture
+- 📦 REST API Design
+- 🔐 Secure Authentication (JWT)
+- 🗄️ Database Optimization
+- 🧮 Data Structures & Algorithms
+- 🏗️ System Design Fundamentals
+
+I aim to build production-ready systems that solve real-world problems with efficiency and maintainability.
+
+---
+
+## ⚡ Tech Arsenal
+
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&perline=7" />
+</p>
+
+### 🔥 Full Stack Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,tailwind&perline=7" />
+</p>
+
+### 🛠 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&perline=4" />
+</p>
+
+---
+
+## 🚀 Highlight Project
+
+### 🏙️ CityLink – Civic Issue Reporting Platform
+
+A scalable full-stack civic reporting system built with:
+
+**React.js | Node.js | Express.js | MongoDB**
+
+✔ Designed secure authentication system  
+✔ Built modular REST API architecture  
+✔ Developed real-time admin workflow dashboard  
+✔ Optimized MongoDB queries using Mongoose  
+
+Focused on usability, performance, and maintainable code structure.
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogaarasu&show_icons=true&theme=transparent&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogaarasu&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yogaarasu/yogaarasu/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🎓 Education
+
+B.Sc Computer Science (2023 – 2026)  
+Government Arts College, Coimbatore  
+CGPA: 7.5 / 10  
+
+---
+
+## 📜 Certification
+
+Object Oriented Programming using Python  
+Infosys Springboard – September 2024  
+
+---
+
+## 🎯 Career Focus
+
+- Backend Engineering  
+- Scalable Web Systems  
+- High-Performance APIs  
+- FAANG-level problem solving  
+- Open Source Contributions  
+
+---
+
+<p align="center">
+  <b>Code. Optimize. Scale. Repeat.</b>
+</p>
 - Data Structures & Algorithms  
 - Object-Oriented Programming  
 - RESTful API Architecture  
