@@ -53,7 +53,7 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
 <br/><br/>
 
 </td>
@@ -61,7 +61,7 @@
 <td width="50%" align="center">
 <h3>📚 Frontend</h3>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap,tailwind" />
 </td>
 </tr>
 
