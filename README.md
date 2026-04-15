@@ -12,7 +12,7 @@
 
   <p>
     I'm a results-driven Full Stack Developer with a strong foundation in SDLC and modern web technologies.
-    I specialize in building scalable web applications using the MERN Stack and Python.
+    I specialize in building scalable web applications using the MERN Stack and Python. 
     Passionate about clean code, secure authentication, RESTful APIs, and solving complex algorithmic problems.
   </p>
 
