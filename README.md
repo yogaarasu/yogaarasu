@@ -8,7 +8,7 @@
  
 <div align="left">
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
+<br>
 <p>I'm a results-driven Full Stack Developer with a strong foundation in SDLC and modern web technologies.
     I specialize in building scalable web applications using the MERN Stack and Python. 
     Passionate about clean code, secure authentication, RESTful APIs, and solving complex algorithmic problems.
