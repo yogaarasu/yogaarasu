@@ -13,7 +13,7 @@
     I specialize in building scalable web applications using the MERN Stack and Python. 
     Passionate about clean code, secure authentication, RESTful APIs, and solving complex algorithmic problems.
 </p>
-
+<br>
   <p>
     <img src="https://img.shields.io/badge/🌍_Coimbatore,_Tamil_Nadu-1e1e2e?style=for-the-badge" />
     <a href="mailto:yogaarasu465@gmail.com"><img src="https://img.shields.io/badge/📧_yogaarasu465@gmail.com-1e1e2e?style=for-the-badge" /></a>
